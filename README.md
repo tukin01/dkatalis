@@ -48,9 +48,8 @@ downtime? How?
 
 7. What sacrifices did you make due to time?
 - Didn't applied SSL/TLS for encrypted communication & was not able to register the targets to ALB
-- we can use AWS ACM / we can go with SSL creation using  self signed certificates but that needs manual intervention by using OpenSLL
-
-![Alt text](image.png)
+- we can use AWS ACM / we can go with SSL creation using  self signed certificates but that needs manual intervention by using OpenSSL
+- 
 ![Alt text](image-1.png)
 ![Alt text](image-2.png)
 ![Alt text](image-3.png)
